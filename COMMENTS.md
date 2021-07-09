@@ -2,6 +2,7 @@
 - data sanitization and validation can be added
 - dependency injection can be added
 - the folder structure _might_ be changed to a more component based approach
+- documentation (for eg.: Swagger) would be nice
 - minor: adding `imports` in _package.json_ breaks autocomplete in the editor, it needs further investigation
 
 # Frontend
