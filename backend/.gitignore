@@ -1,0 +1,10 @@
+/node_modules
+/.idea
+
+# misc
+.DS_Store
+# enabled for the test
+#.env*
+#.env
+npm-debug.log*
+build

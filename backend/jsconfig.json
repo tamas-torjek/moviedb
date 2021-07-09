@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "allowSyntheticDefaultImports": false,
+    "baseUrl": "./",
+    "paths": {
+      "#routes/*": [
+        "src/api/routes/*"
+      ],
+      "#controller/*": [
+        "src/api/controller/*"
+      ],
+      "#config": [
+        "src/config/config.js"
+      ],
+      "#models/*": [
+        "src/models/*"
+      ],
+      "#logger": [
+        "src/services/logger.js"
+      ],
+      "#services/*": [
+        "src/services/*"
+      ],
+      "#api/*": [
+        "src/api/*"
+      ],
+      "#src/*": [
+        "src/*"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
