@@ -16,4 +16,5 @@
 - I didn't have time to write any test :(
 - maybe I should have dockerized the whole project
 - as far as I understand, GitHub Pages can only serve static sites and I also didn't have time to put it up. Maybe later I will check it out.
+- I jumped into coding and forgot to put it in a repo, apologies for that. I know you can't see the progress like this.
 - even if you are not satisfied with the outcome, I would really appreciate some honest feedback, so I can learn
