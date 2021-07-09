@@ -11,6 +11,7 @@
 - maybe I should have included some class based components...
 - _containers_ are the components which interact with the store
 - I'm not sure if I have organized the code the best way
+- the UI can be off a bit (especially the genre filter), those could be touched up and made more user friendly with more time
 
 # Overall
 - I didn't have time to write any test :(
